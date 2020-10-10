@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  BlockingQueue.cpp
+  CoverageArea.cpp
+C:\Users\slash\OneDrive\Desktop\PROGRAMMAZIONE DI SISTEMA\PdS-Detection-System-master\PDS_Detection_System\PDS_Detection_System\CoverageArea.cpp(110,24): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  source.cpp
+C:\Users\slash\OneDrive\Desktop\PROGRAMMAZIONE DI SISTEMA\PdS-Detection-System-master\PDS_Detection_System\PDS_Detection_System\dlib\bigint\bigint_kernel_1.h(512,18): warning C4834: il valore restituito della funzione con attributo 'nodiscard' verrà rimosso
+C:\Users\slash\OneDrive\Desktop\PROGRAMMAZIONE DI SISTEMA\PdS-Detection-System-master\PDS_Detection_System\PDS_Detection_System\dlib\bigint\bigint_kernel_1.h(524,17): warning C4834: il valore restituito della funzione con attributo 'nodiscard' verrà rimosso
+C:\Users\slash\OneDrive\Desktop\PROGRAMMAZIONE DI SISTEMA\PdS-Detection-System-master\PDS_Detection_System\PDS_Detection_System\dlib\bigint\bigint_kernel_2.h(537,18): warning C4834: il valore restituito della funzione con attributo 'nodiscard' verrà rimosso
+C:\Users\slash\OneDrive\Desktop\PROGRAMMAZIONE DI SISTEMA\PdS-Detection-System-master\PDS_Detection_System\PDS_Detection_System\dlib\bigint\bigint_kernel_2.h(549,17): warning C4834: il valore restituito della funzione con attributo 'nodiscard' verrà rimosso
+  PacketProcessor.cpp
+  utilities.cpp
+  PDS_Detection_System.cpp
+  ProbePacket.cpp
+C:\Users\slash\OneDrive\Desktop\PROGRAMMAZIONE DI SISTEMA\PdS-Detection-System-master\PDS_Detection_System\PDS_Detection_System\ProbePacket.cpp(95,38): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  TCPServer.cpp
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+  All 8857 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  PDS_Detection_System.vcxproj -> C:\Users\slash\OneDrive\Desktop\PROGRAMMAZIONE DI SISTEMA\PdS-Detection-System-master\PDS_Detection_System\x64\Release\PDS_Detection_System.exe
