@@ -6,3 +6,6 @@ There is also an interface that allows you to view the devices on a map of the r
 
 ![Alt text](Images/1.PNG?raw=true "Initial view")
 
+![Alt text](Images/2.PNG?raw=true "Detection")
+
+![Alt text](Images/3.PNG?raw=true "Final view")
